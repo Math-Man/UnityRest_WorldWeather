@@ -28,7 +28,7 @@ public class PointsHandler : MonoBehaviour
         foreach (City c in APIHandler.Instance.cities) 
         {
             Vector2 v = new Vector2(c.coord.lat, c.coord.lon);
-            Vector3 pointPosition = Quaternion.AngleAxis(c.coord.lon, -Vector3.up) * Quaternion.AngleAxis(c.coord.lat, -Vector3.right) * new Vector3(0, 0, 250);
+            Vector3 pointPosition = Quaternion.AngleAxis(c.coord.lon, -Vector3.up) * Quaternion.AngleAxis(c.coord.lat, -Vector3.right) * new Vector3(0, 0, 500);
             GameObject point = Instantiate(PointPrefab, pointPosition, Quaternion.identity, Holder.transform);
             CityDataNode pointData = point.GetComponentInChildren<CityDataNode>();
             pointData.data = c;

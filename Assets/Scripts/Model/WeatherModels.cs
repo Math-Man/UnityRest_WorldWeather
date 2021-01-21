@@ -32,8 +32,8 @@ public class City
 [Serializable]
 public class Coord
 {
-    public int lon;
-    public int lat;
+    public float lon;
+    public float lat;
 }
 
 
