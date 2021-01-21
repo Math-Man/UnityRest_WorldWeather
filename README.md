@@ -1,7 +1,7 @@
 # RESTUnity
 A test program I've written in unity in a couple hours to understand how REST and JSON works under Unity.
 
-Uses openweathermap.org API to get the weather 
+Uses https://openweathermap.org API to get the weather 
 Cities are dotted on a spherical a very crusty equirectangular projection.
 The list of cities is taken from here http://bulk.openweathermap.org/sample/ modified a little bit to fit json format.
 
