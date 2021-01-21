@@ -12,7 +12,7 @@ The projection is really crusty the image I used is even crustier. I didn't even
 
 API key is omitted, if you want to try this, put your key in the API_KEY constant in APIHandler.cs
 
-
+In hindsight I should've used something with less vertices...
 
 [![IMAGE ALT TEXT HERE](https://github.com/Math-Man/RESTUnity/blob/main/pg.gif)](https://github.com/Math-Man/RESTUnity/blob/main/pg.gif)
 
