@@ -17,5 +17,5 @@ API key is omitted, if you want to try this, put your key in the API_KEY constan
 
 In hindsight I should've used something with less vertices...
 
-[![IMAGE ALT TEXT HERE](https://github.com/Math-Man/RESTUnity/blob/main/pg.gif)](https://github.com/Math-Man/RESTUnity/blob/main/pg.gif)
+[![IMAGE ALT TEXT HERE](https://github.com/Math-Man/RESTUnity/blob/main/pg1.gif)](https://github.com/Math-Man/RESTUnity/blob/main/pg1.gif)
 
