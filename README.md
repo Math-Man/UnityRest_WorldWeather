@@ -16,5 +16,3 @@ API key is omitted, if you want to try this, put your key in the API_KEY constan
 
 [![IMAGE ALT TEXT HERE](https://github.com/Math-Man/RESTUnity/blob/main/pg.gif)](https://github.com/Math-Man/RESTUnity/blob/main/pg.gif)
 
-
-https://i.imgur.com/N9s3R6M.gif
