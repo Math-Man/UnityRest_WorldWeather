@@ -1,4 +1,4 @@
-# RESTUnity
+# Unity Rest Test Project (World Weather Thingy)
 A test program I've written in unity in a couple hours to understand how REST and JSON works under Unity.
 
 Uses https://openweathermap.org API to get the weather 
